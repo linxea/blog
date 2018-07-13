@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[toomuchome]]></title><description><![CDATA[thing with web]]></description><link>https://linxea.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 13 Jul 2018 23:40:07 GMT</lastBuildDate><item><title><![CDATA[Hello World 🦄]]></title><description><![CDATA[Do or do not, there’s no try. - Yoda First post is always awkward, so we will use this chance to do some shameless plug. // For human beings…]]></description><link>https://linxea.github.io/hello-world/</link><guid isPermaLink="false">https://linxea.github.io/hello-world/</guid><pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-90e0b.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQoz21S32/SUBTe32ZMfDImvhn1bS/GGJdNTMZmWBhkkW7QZqMN0k7njdzRBSSzxOkaDJtUZqFgw4+UkkHY4ubmQGQhoS3gZY0bEs/DuSfnfN/9zjn3jvWHrNfrIV9UFfotmPXM3388bqeW4PvI9+MjlNd0vf+vjV1GmqaJmfTnpOBmVsafPpjG5uw+16Rj2kY8d1GEhyF9a6tapzNK7l4IltQSRuITTquDwq7duP7IOmUjFm7evjU5Y7Hicw+tE1I2M9zgqLJhGHvZtHedwWhikfasbwfn3U6MxkEEnp7+HMh0u7quj5Lr9XosFhuUdWM3s7f4yuuhl0AUuP04ubG2kxJMmKqqkiSJothsNgdkdBk6eJ6XZdlEyMW8y4cvB1685MAsbp9yzHxJfzVLEMJGo5HL5TiOG5DNHhiGMclGt/dNTGwG/CRFWJ49cdosUbgqxOOoVKlUWJZFgaIoAIArcrvdDgaDrVbr5MdJYpOVPkLo8/oXHO+YZVXYSnyI/m6dI8FqtYrA4XAYjTm6MOTzWSkKqNTWBvuavHvvjp9e2QkB+RNfKOTNPaMxO38f7IpsDl8qFMri7q9yKslHQjDAhd6UhW2UUYq5S8x/Pkn/ov/zRvPs8Kh+uH9Wq5Uy2VQ8VpGSx/tq7eBg+IVN+wNEvyN91LAUJQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;yoda&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-e8976.jpg 148w,
+/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-63df2.jpg 295w,
+/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-f8fb9.jpg 590w,
+/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-85e3d.jpg 885w,
+/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-d1924.jpg 1180w,
+/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-9452e.jpg 1770w,
+/blog/static/yoda-20fbfea6821439c1b965c92007b882f3-90e0b.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do or do not, there’s no try. - Yoda&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First post is always awkward, so we will use this chance to do some shameless plug.&lt;/p&gt;
+&lt;h3&gt;// For human beings:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/toomuchome&quot;&gt;🍰instagram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCtYD7CKY1kkiX1r2OVEgbeg&quot;&gt;🚨youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/toomuchome_&quot;&gt;🐦twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/toomuchome&quot;&gt;🤖github&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;// For non human beings:&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;vist&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;socialMediaLinks&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; i &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; socialMediaLinks&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Check me out at &apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; i
+
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;shamelessPlug&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    bored &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;True&lt;/span&gt;
+    socialMediaLinks &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;https://instagram.com/toomuchome&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;https://www.youtube.com/channel/UCtYD7CKY1kkiX1r2OVEgbeg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;https://twitter.com/toomuchome&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;https://github.com/toomuchome&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; bored&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        vist&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;socialMediaLinks&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+shamelessPlug&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;</content:encoded></item></channel></rss>

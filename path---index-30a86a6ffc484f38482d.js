@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{393:function(e,t){e.exports={data:{site:{siteMetadata:{title:"toomuchome"}},allMarkdownRemark:{edges:[{node:{excerpt:"Do or do not, there’s no try. - Yoda First post is always awkward, so we will use this chance to do some shameless plug. // For human beings…",fields:{slug:"/hello-world/"},frontmatter:{date:"13 July, 2018",title:"Hello World 🦄"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-30a86a6ffc484f38482d.js.map

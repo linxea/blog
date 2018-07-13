@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'toomuchome',
     author: 'linxea',
-    description: 'thing with web',
-    siteUrl: 'https://linxea.github.io',
+    description: 'I have a thing for web.',
+    siteUrl: 'https://linxea.github.io/blog',
   },
   pathPrefix: '/blog',
   plugins: [

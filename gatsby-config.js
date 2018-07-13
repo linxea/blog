@@ -5,7 +5,7 @@ module.exports = {
     description: 'thing with web',
     siteUrl: 'https://linxea.github.io',
   },
-  pathPrefix: '/',
+  pathPrefix: '/blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
